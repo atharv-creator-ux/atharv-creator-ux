@@ -1,16 +1,17 @@
-## Hi there 👋
+ Hi, I'm Atharv Patil 👋
 
-<!--
-**atharv-creator-ux/atharv-creator-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a 1st Year B.Tech student specialising in Artificial intelligence and Machine Learning,
+currently building my digital literacy and technical foundations.
 
-Here are some ideas to get you started:
+I hope to learn how to build real-world software projects, contribute
+to open-source, and develop skills in data structures, web development,
+and AI over the course of my degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+| Field | Details |
+|-------|---------|
+| Degree | B.Tech |
+| Branch | Artificial intelligence and Machine Learning|
+| Year | 1st Year |
+| Role | Student Digital Ambassador |
